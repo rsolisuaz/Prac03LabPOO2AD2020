@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group 'mx.edu.uaz.ingsoftware'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+test {
+    useJUnitPlatform()
+}
+
+dependencies {
+    implementation 'org.junit.jupiter:junit-jupiter:5.4.2'
+    testImplementation group: 'junit', name: 'junit', version: '4.12'
+}

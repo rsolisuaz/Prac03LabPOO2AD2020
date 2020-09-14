@@ -52,7 +52,7 @@ public class CalculadoraSimple {
 
     /**
      * Este metodo eleva un numero a a la potencia b
-     * (NO ESTA PERMITIDO USAR FUNCIONES PARA IMPLEMENTAR ESTE METODO)
+     * (NO ESTA PERMITIDO USAR FUNCIONES MATEMATICAS PARA IMPLEMENTAR ESTE METODO)
      * @param a  Valor double que indica la base de la potencia
      * @param b  Valor entero que indica el exponente
      * @return   a elevado a la b

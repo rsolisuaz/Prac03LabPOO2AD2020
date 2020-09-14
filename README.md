@@ -62,7 +62,8 @@ Para ejecutar las pruebas de tu programa selecciona **CalculadoraSimpleTest** de
 **RECUERDA QUE SOLO DEBES HACER CAMBIOS EN LOS CINCO MÉTODOS MENCIONADOS, NO DEBES CAMBIAR NINGUNA OTRA PARTE DEL CÓDIGO (DE HECHO, DONDE TU DEBES ESCRIBIR CÓDIGO ESTA MARCADO CON UN COMENTARIO `//TODO` )** 
 
 ## NOTAS IMPORTANTES
-1. Cada vez que completes un método ejecuta las pruebas para verificar que las pruebas del método completado son exitosas
+1. NO PUEDES HACER USO DE LA CLASE Math
+2. Cada vez que completes un método ejecuta las pruebas para verificar que las pruebas del método completado son exitosas
 2. Una vez vez que completes un método y verifiques que pasa las pruebas haz un Commit (debes en tu proyecto tener como mínimo 5 commits, uno por cada método): 
    - Para hacer commit, selecciona primero el proyecto, después entra al menú VCS y selecciona la opción Commit...
    - Te aparecerá una lista de archivos con los cambios detectados, verifica que incluye todos los archivos que deberían estar

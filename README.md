@@ -69,5 +69,7 @@ Para ejecutar las pruebas de tu programa selecciona **CalculadoraSimpleTest** de
    - Teclea un mensaje que describa los cambios realizados de manera clara y concisa (debe ser un mensaje que permita a otras personas darse cuenta de lo realizado)
    - Dé click en el ícono del engrane (Show Commit Options), escriba su nombre en el cuadro Author, deseleccione Perform Code Analysis y Check TODO (Esto es necesario solo en el primer commit que hagan)
    - Dé click en Commit
-3. Después de haber hecho todos los commits que completan tu programa, súbelo al repositorio remoto dando `git push`
+3. Después de haber hecho todos los commits que completan tu programa, súbelo al repositorio remoto haciendo lo siguiente:
+   - Entre al menú VCS y seleccione la opción Git->Push...
+   - Dé click en el botón Push en el cuadro de diálogo que aparece
 4. Cada vez que subas tu proyecto al repositorio privada con un push, se aplicarán automáticamente las pruebas sobre tu código para verificar si funciona correctamente. Recuerda que en la página de tu repositorio en la sección **Pull Requests**, se encuentra una subsección de nombre **Feedback**, donde podrás encontrar los resultados de las pruebas en la pestaña denominada **Check** (expandiendo la parte que dice **Run education/autograding@v1**), y cualquier comentario general que el profesor tenga sobre tu código en la pestaña **Conversation**. 

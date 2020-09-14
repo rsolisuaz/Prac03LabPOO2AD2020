@@ -27,7 +27,7 @@ public class CalculadoraSimple {
     }
 
     /**
-     * Este metodo devuelve la multiplicación de dos numeros a y b
+     * Este metodo devuelve el producto de dos numeros a y b
      * @param a   Primer numero
      * @param b   Segundo numero
      * @return  a * b
@@ -38,7 +38,7 @@ public class CalculadoraSimple {
     }
 
     /**
-     * Este metodo devuelve la division de dos numeros a y b
+     * Este metodo devuelve el cociente de la division de dos numeros a y b
      * @param a   Primer numero
      * @param b   Segundo numero
      * @return  a / b
